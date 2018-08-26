@@ -1,0 +1,2955 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xml:lang="fin">
+<e>
+   <lg>
+     <l pos="Adp">myöten</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">myöten</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">aikaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">aikaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ali</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">ali</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">alitse</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">alitse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">alkaen</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">alkaen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">alla</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">alla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">alle</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">alle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">alta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">alta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ansiosta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">ansiosta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">armosta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">armosta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">asemesta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">asemesta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">asti</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">asti</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">edelle</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">edelle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">edeltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">edeltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">edestä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">edestä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">editse</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">editse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ennen</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">ennen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ensisilmäys</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">ensisilmäys</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">eteen</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS" status="Po">eteen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">etäälle</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">etäälle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">hallussa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">hallussa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">haltuun</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">haltuun</st>
+       <st Contlex="ADP_BACK_POSS" status="Po">haltuu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">hampaisiin</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">hampaisiin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">hampaissa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">hampaissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">hampaista</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">hampaista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">hoteissa</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">hoteissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">hoteista</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">hoteista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">huippuvuonna</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">huippuvuonna</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">huolimatta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">huolimatta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">huomaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">huomaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">huomassa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">huomassa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">huostaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">huostaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">huostassa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">huostassa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">huostasta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">huostasta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">hännille</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">hännille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">hännillä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">hännillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">hänniltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">hänniltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ilman</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">ilman</st>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Pr">ilman</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">irti</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Pr">irti</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">jalkoihin</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">jalkoihin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">jaloissa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">jaloissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">jaloista</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">jaloista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">johdosta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">johdosta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">johtuen</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">johtuen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">jäljestä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">jäljestä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">jäljiltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">jäljiltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">jälkeen</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS" status="Po">jälkeen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kaa</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kannalla</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kannalla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kannalle</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">kannalle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kannalta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kannalta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kannoilla</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kannoilla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kannoille</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">kannoille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kannoilta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kannoilta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kanssa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kanssa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">katsoen</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">katsoen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">katsomatta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">katsomatta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kautta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kautta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kera</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kera</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">keskelle</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">keskelle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">keskeltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">keskeltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kesken</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS" status="Po">kesken</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">keskestä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">keskestä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">keskuudessa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">keskuudessa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">keskuudesta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">keskuudesta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">keskuuteen</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS" status="Po">keskuuteen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kieppeille</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">kieppeille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kimppuun</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS" status="Po">kimppuun</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kintereille</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">kintereille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kintereillä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kintereillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kintereiltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kintereiltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kohden</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kohden</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kohti</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kohti</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">korvilla</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">korvilla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">korville</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">korville</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">koskien</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">koskien</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kouriin</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kouriin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kourissa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kourissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kourista</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kourista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kuluessa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kuluessa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kuluttua</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kuluttua</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kupeelle</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">kupeelle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kupeeseen</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kupeeseen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kupeesta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kupeesta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kustannuksella</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kustannuksella</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kynsiin</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">kynsiin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kynsissä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kynsissä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">kynsistä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kynsistä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">käsissä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">käsissä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">laidalla</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">laidalla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">laidalle</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">laidalle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">laidalta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">laidalta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">laidassa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">laidassa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">laidasta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">laidasta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">laitaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">laitaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">laskematta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">laskematta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">liepeille</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">liepeille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">liepeiltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">liepeiltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">liittyen</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">liittyen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">likelle</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">likelle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">likeltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">likeltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">liki</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">liki</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">lisäksi</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">lisäksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">lomaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">lomaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">lomassa</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">lomassa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">lomasta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">lomasta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">lomitse</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">lomitse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">lukien</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">lukien</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">lukuun ottamatta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">lukuun ottamatta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">luo</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">luo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">luokse</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">luokse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">luvalla</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">luvalla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">lähelle</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">lähelle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">läheltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">läheltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">lähettyville</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">lähettyville</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">lähettyvillä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">lähettyvillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">lähettyviltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">lähettyviltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">lähtien</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">lähtien</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">lähtöisin</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">lähtöisin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">läpi</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">läpi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">lävitse</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">lävitse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">maissa</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">maissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">maista</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">maista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">mennessä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">mennessä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">mielestä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">mielestä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">muassa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">muassa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">mukaan luettuna</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">mukaan luettuna</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">mukaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS" status="Po">mukaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">muodossa</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">muodossa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">myöden</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">myöden</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">myötä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">myötä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">nimeen</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nimeen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">nimiin</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nimiin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">nimissä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">nimissä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">niskalla</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">niskalla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">niskalle</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">niskalle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">niskalta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">niskalta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">nykyä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nykyä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">nähden</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nähden</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">nähtäviin</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nähtäviin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">nähtäville</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nähtäville</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">nähtävillä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nähtävillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">nähtävissä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nähtävissä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">näkyville</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">näkyville</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">näkyviltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">näkyviltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">näkyvistä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">näkyvistä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">näkökulmasta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">näkökulmasta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">oheen</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">oheen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ohella</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">ohella</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ohessa</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">ohessa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ohesta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">ohesta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ohi</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">ohi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ohitse</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">ohitse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">paikkeille</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">paikkeille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">paikkeilta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">paikkeilta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">paitsi</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">paitsi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pakeille</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">pakeille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pakeiltaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">pakeiltaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">parissa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">parissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">parista</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">parista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">perusteella</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">perusteella</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">perustuen</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">perustuen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">peräisin</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">peräisin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">perältä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">perältä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">perässä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">perässä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">perästä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">perästä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">perään</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS" status="Po">perään</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pinnalla</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pinnalla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pinnalle</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">pinnalle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pinnalta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pinnalta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pinnassa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pinnassa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pinnasta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pinnasta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pintaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">pintaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pitkin</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">pitkin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pitäen</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">pitäen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pohjaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">pohjaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pohjalla</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pohjalla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pohjalle</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">pohjalle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pohjalta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pohjalta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pohjassa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pohjassa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">pohjasta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pohjasta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">poikin</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">poikin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">puheille</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">puheille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">puitteissa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">puitteissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">puoleen</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS" status="Po">puoleen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">puolessa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">puolessa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">puolesta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">puolesta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">päin</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">päin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">päälle</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">päälle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">päällitse</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">päällitse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">päällä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">päällä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">päältä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">päältä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">päässä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">päässä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">reunaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">reunaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">reunalla</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">reunalla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">reunalle</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">reunalle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">reunalta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">reunalta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">reunassa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">reunassa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">reunasta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">reunasta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">riippuen</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">riippuen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">rinnalla</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">rinnalla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">rinnalle</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">rinnalle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">rinnalta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">rinnalta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">saakka</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">saakka</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">saatavilla</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">saatavilla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">saataville</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">saataville</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">saatavilta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">saatavilta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">seassa</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">seassa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">seasta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">seasta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">sekaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">sekaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">sen takia</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">sen takia</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">seutuville</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">seutuville</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">silmässä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">silmässä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">silmästä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">silmästä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">silmään</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">silmään</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">sisältä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">sisältä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">sisässä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">sisässä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">sisästä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">sisästä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">sivuitse</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">sivuitse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">sivussa</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">sivussa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">suhteen</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">suhteen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">suuhun</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">suuhun</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">suussa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">suussa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">suusta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">suusta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">syntyisin</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">syntyisin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">säveltämisvuonna</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">säveltämisvuonna</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">taakse</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">taakse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">taitse</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">taitse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">takaa</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">takaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">takia</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">takia</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">tanaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">tanaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">tanassa</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">tanassa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">tapaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">tapaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">tasalla</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">tasalla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">tasalle</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">tasalle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">tasalta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">tasalta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">tasasta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">tasasta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">tautta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">tautta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">tiimoilta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">tiimoilta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">tuella</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">tuella</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">turvin</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">turvin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">tykönä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">tykönä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">tähden</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">tähden</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ulottuviin</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS" status="Po">ulottuviin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ulottuville</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">ulottuville</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vailla</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vailla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vaille</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vaille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">valossa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">valossa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">varaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS" status="Po">varaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">varalla</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varalla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">varalle</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varalle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">varalta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varalta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">varassa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">varassa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">varasta</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">varasta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">varrelle</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varrelle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">varressa</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varressa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">varresta</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varresta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">varteen</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varteen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">varten</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varten</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vastaan</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS" status="Po">vastaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vastassa</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">vastassa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vasten</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vasten</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vastoin</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vastoin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">verrattuna</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">verrattuna</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vierelle</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">vierelle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vierellä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">vierellä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">viereltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">viereltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vierestä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">vierestä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vuokseen</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vuokseen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vuoksemme</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vuoksemme</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vuokseni</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vuokseni</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vuoksenne</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vuoksenne</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vuoksensa</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vuoksensa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vuoksesi</l>
+     <stg>
+       <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vuoksesi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">vuoksi</l>
+     <stg>
+       <st Contlex="ADP_BACK_POSS" status="Po">vuoksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">väliltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">väliltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">välistä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">välistä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">välitse</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">välitse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ylettyville</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">ylettyville</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ylettyvillä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">ylettyvillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ylettyviltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">ylettyviltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">yli</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">yli</st>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Pr">yli</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ylitse</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">ylitse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ylle</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">ylle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">yllä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">yllä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">yltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">yltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ympärille</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">ympärille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ympärillä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">ympärillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ympäriltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">ympäriltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ääreen</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">ääreen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">äärelle</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">äärelle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">äärellä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">äärellä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ääreltä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">ääreltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">äärestä</l>
+     <stg>
+       <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">äärestä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adp">ääriin</l>
+     <stg>
+       <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">ääriin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+</r> 

@@ -1,0 +1,5707 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xml:lang="fin">
+<e>
+   <lg>
+     <l pos="Pron">ei-kukaan</l>
+     <stg>
+       <st Contlex="PRON_KUKAAN" status="Pron">ei-k</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ei-mikään</l>
+     <stg>
+       <st Contlex="PRON_MIKÄÄN" status="Pron">ei-mi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eri</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pl+Nom">erit</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Sg+Nom">eri</st>
+       <st Contlex="PRON_KOKO" status="Pron">eri</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eräs</l>
+     <stg>
+       <st Contlex="PRON_ERÄS" status="Pron">erä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Pl+Abe">eräittä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eräs</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Pl+Abl">eräiltä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Pl+Ade">eräillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eräs</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Pl+All">eräille</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Pl+Com">eräine</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eräs</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Pl+Ela">eräistä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Pl+Ess">eräinä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eräs</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Pl+Gen">eräiden</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Pl+Ill">eräisiin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eräs</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Pl+Ine">eräissä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Pl+Ins">eräin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eräs</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Pl+Nom">eräät</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Pl+Par">eräitä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eräs</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Pl+Tra">eräiksi</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Sg+Abe">eräättä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eräs</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Sg+Abl">eräältä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Sg+Ade">eräällä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eräs</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Sg+All">eräälle</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Sg+Ela">eräästä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eräs</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Sg+Ess">eräänä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Sg+Gen">erään</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eräs</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Sg+Ill">erääseen</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Sg+Ine">eräässä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eräs</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Sg+Ins">erään</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Sg+Nom">eräs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">eräs</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Sg+Par">erästä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Indef+Sg+Tra">erääksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">harva</l>
+     <stg>
+       <st Contlex="PRON_SAMA" status="Pron">harv</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">harvempi</l>
+     <stg>
+       <st Contlex="PRON_USEAMPI" status="Pron">harvem</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">he</l>
+     <stg>
+       <st Contlex="PRON_ME" status="Pron+Pers+Pl3">he</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">heitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl3+Abl+Use/NG+Dial/West">heittiltä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl3+Ade+Use/NG+Dial/West">heittillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">heitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl3+All+Use/NG+Dial/West">heittille</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl3+Ela+Use/NG+Dial/West">heittissä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">heitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl3+Ess+Use/NG+Dial/West">heittinä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl3+Gen+Use/NG+Dial/West">heittin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">heitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl3+Ill+Use/NG+Dial/West">heittiin</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl3+Ine+Use/NG+Dial/West">heittissä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">heitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl3+Nom+Use/NG+Dial/West">heitti</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl3+Par+Use/NG+Dial/West">heittiä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">hiä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Sg3+Nom+Use/NG+Dial/East">hiä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">hyö</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl3+Acc+Use/NG+Dial/East">heiät</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl3+Gen+Use/NG+Dial/East">heiän</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl3+Nom+Use/NG+Dial/East">hyö</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">hän</l>
+     <stg>
+       <st Contlex="PRON_HÄN" status="Pron+Pers+Sg3">hän</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">hää</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Sg3+Abl+Use/NG+Dial/East">hältä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Sg3+Ade+Use/NG+Dial/East">hällä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">hää</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Sg3+All+Use/NG+Dial/East">hälle</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Sg3+Ill+Use/NG+Dial/East">hännee</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">hää</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Sg3+Nom+Use/NG+Dial/East">hää</st>
+       <st Contlex="PRON_HÄÄ" status="Pron">hä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse kukin</l>
+     <stg>
+       <st Contlex="PRON_KUKIN" status="Pron">itse k</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT" status="Pron+Refl+Pl+Tra">itseiksi</st>
+       <st Contlex="PRON_FRONT_CLIT" status="Pron+Refl+Pl+Tra+Use/NG+Dial/West">itteiksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT" status="Pron+Refl+Sg+Tra">itseksi</st>
+       <st Contlex="PRON_FRONT_CLIT" status="Pron+Refl+Sg+Tra+Use/NG+Dial/Standard">iteksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS" status="Pron+Refl+Pl+Gen">itsee</st>
+       <st Contlex="PRON_FRONT_POSS_EN_OPT" status="Pron+Refl+Pl+All">itseille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_EN_OPT" status="Pron+Refl+Pl+All+Use/NG+Dial/Standard">iteille</st>
+       <st Contlex="PRON_FRONT_POSS_EN_OPT" status="Pron+Refl+Pl+Com">itseine</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_EN_OPT" status="Pron+Refl+Pl+Com+Use/NG+Dial/West">itteine</st>
+       <st Contlex="PRON_FRONT_POSS_EN_OPT" status="Pron+Refl+Pl+Tra">itseikse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_EN_OPT" status="Pron+Refl+Pl+Tra+Use/NG+Dial/West">itteikse</st>
+       <st Contlex="PRON_FRONT_POSS_EN_OPT" status="Pron+Refl+Sg+All">itselle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_EN_OPT" status="Pron+Refl+Sg+All+Use/NG+Dial/West">itelle</st>
+       <st Contlex="PRON_FRONT_POSS_EN_OPT" status="Pron+Refl+Sg+Tra">itsekse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_EN_OPT" status="Pron+Refl+Sg+Tra+Use/NG+Dial/Standard">itekse</st>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Pl+Gen">itse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Pl+Gen+Use/NG+Dial/Standard">ite</st>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Pl+Ill">itseihin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Pl+Ill">itseihin</st>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Pl+Ill+Use/NG+Dial/Standard">iteihin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Pl+Ins">itsein</st>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Pl+Ins+Use/NG+Dial/West">ittein</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Pl+Nom">itse</st>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Pl+Nom+Use/NG+Dial/Standard">ite</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Pl+Nom+Use/NG+Dial/West">itte</st>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Sg+Gen">itse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Sg+Gen+Use/NG+Dial/Standard">ite</st>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Sg+Ill">itseen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Sg+Ill+Use/NG+Dial/West">itteen</st>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Sg+Ins">itsen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Sg+Ins+Use/NG+Dial/West">iten</st>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Sg+Nom">itse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_OPT" status="Pron+Refl+Sg+Nom+Use/NG+Dial/Standard">ite</st>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Pl+Abl+Use/NG+Dial/Standard">iteiltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Pl+Abl+Use/NG+Dial/Standard">iteiltä</st>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Pl+Ade">itseillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Pl+Ade+Use/NG+Dial/Standard">iteillä</st>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Pl+Ela">itseistä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Pl+Ela+Use/NG+Dial/West">iteistä</st>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Pl+Ess">itseinä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Pl+Ess+Use/NG+Dial/West">itteinä</st>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Pl+Ine">itseissä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Pl+Ine+Use/NG+Dial/Standard">iteissä</st>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Pl+Par">itsejä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Pl+Par+Use/NG+Dial/West">ittejä</st>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Sg+Abl">itseltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Sg+Abl+Use/NG+Dial/West">iteltä</st>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Sg+Ade">itsellä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Sg+Ade+Use/NG+Dial/West">itellä</st>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Sg+Ela">itsestä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Sg+Ela+Use/NG+Dial/West">itestä</st>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Sg+Ess">itsenä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Sg+Ess+Use/NG+Dial/West">ittenä</st>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Sg+Ine">itsessä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Sg+Ine+Use/NG+Dial/West">itessä</st>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Sg+Par">itseä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">itse</l>
+     <stg>
+       <st Contlex="PRON_FRONT_POSS_ÄN_OPT" status="Pron+Refl+Sg+Par+Use/NG+Dial/West">itteä</st>
+       <st Contlex="PRON_ITSE" status="Pron">itse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka ainoa</l>
+     <stg>
+       <st Contlex="PRON_AINOA" status="Pron">joka aino</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka ikinen</l>
+     <stg>
+       <st Contlex="PRON_IKINEN" status="Pron">joka iki</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Abe">joitta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Abe+Use/NG">joittakas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Abl">joilta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Abl+Use/NG">joiltakas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Ade">joilla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Ade+Use/NG">joillakas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+All">joille</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+All+Use/NG">joilleka</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+All+Use/NG">joillekas</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Com">joine</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Com+Use/NG">joineka</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Com+Use/NG">joinekas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Ela">joista</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Ela+Use/NG">joistakas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Ess">joina</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Ess+Use/NG">joinakas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Gen">joiden</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Gen+Use/NG">joidenka</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Gen+Use/NG">joidenkas</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Gen+Use/NG">joitten</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Gen+Use/NG">joittenka</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Gen+Use/NG">joittenkas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Ill">joihin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Ill+Use/NG">joihinka</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Ill+Use/NG">joihinkas</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Ine">joissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Ine+Use/NG">joissakas</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Ins">join</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Ins+Use/NG">joinka</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Ins+Use/NG">joinkas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Nom">jotka</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Par">joita</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Par+Use/NG">joitaka</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Par+Use/NG">joitakas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Tra">joiksi</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Tra+Use/NG">joiksika</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Pl+Tra+Use/NG">joiksikas</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Abe">jotta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Abe+Use/NG">jottakas</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Abl">jolta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Abl+Use/NG">joltakas</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Ade">jolla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Ade+Use/NG">jollakas</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+All">jolle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+All+Use/NG">jolleka</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+All+Use/NG">jollekas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Ela">josta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Ela">jostakas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Ess">jona</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Ess+Use/NG">jonakas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Gen">jonka</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Ill">johon</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Ill+Use/NG">johonka</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Ill+Use/NG">johonkas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Ine">jossa</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Ine+Use/NG">jossakas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Nom">joka</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Par">jota</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Par+Use/NG">jotakas</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Tra">joksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Tra+Use/NG">joksika</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Tra+Use/NG">joksikas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joka</l>
+     <stg>
+       <st Contlex="PRON_JOKA" status="Pron">jo</st>
+       <st Contlex="PRON_KOKO" status="Pron">joka</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokainen</l>
+     <stg>
+       <st Contlex="PRON_JOKAINEN" status="Pron">jokai</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Abe">joittakin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Abl">joiltain</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Abl">joiltakin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ade">joillain</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ade">joillakin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+All">joillekin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Com">joinekin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ela">joistain</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ela">joistakin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ess">joinain</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ess">joinakin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Gen">joidenkin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ill">joihinkin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ine">joissain</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ine">joissakin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ins">joinkin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Nom">jotkin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Par">joitain</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Par">joitakin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Tra">joiksikin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Abe">jottakin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Abl">joltain</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Abl">joltakin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ade">jollain</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ade">jollakin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+All">jollekin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ela">jostain</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ela">jostakin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ess">jonain</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ess">jonakin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Gen">jonkin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ill">johonkin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ine">jossain</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ine">jossakin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Nom">jokin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Par">jotain</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Par">jotakin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Par+Use/NG+Dial/Standard">jotai</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokin</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Tra">joksikin</st>
+       <st Contlex="PRON_JOKIN" status="Pron">jo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Abe">joittakuitta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Abl">joiltakuilta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ade">joillakuilla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+All">joillekuille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Com">joinekuine</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ela">joistakuista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ess">joinakuina</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Gen">joidenkuiden</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ill">joihinkuihin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ine">joissakuissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Ins">joinkuin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Nom">jotkut</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Par">joitakuita</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Pl+Tra">joiksikuiksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Abe">jottakutta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Abl">joltakulta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ade">jollakulla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+All">jollekulle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ela">jostakusta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ess">jonakuna</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Gen">jonkun</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Gen+Use/NG+Dial/Standard">jonku</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ill">johonkuhun</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ine">jossakussa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Ins">jonkun</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Nom">joku</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">joku</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Par">jotakuta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Indef+Sg+Tra">joksikuksi</st>
+       <st Contlex="PRON_JOKU" status="Pron">jo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jokunen</l>
+     <stg>
+       <st Contlex="PRON_JOKAINEN" status="Pron">joku</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jok’ikinen</l>
+     <stg>
+       <st Contlex="PRON_JOKAINEN" status="Pron">jok’iki</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jompi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Abe">jommitta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Abl">jommilta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jompi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ade">jommilla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+All">jommille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jompi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Com">jompine</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ela">jommista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jompi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ess">jompina</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Gen">jompien</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jompi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ill">jompiin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ine">jommissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jompi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ins">jommin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Nom">jommat</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jompi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Par">jompia</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Tra">jommiksi</st>
+       <st Contlex="PRON_KUMPI" status="Pron">jom</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">jompikumpi</l>
+     <stg>
+       <st Contlex="PRON_JOMPIKUMPI" status="Pron">jom</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kaikki</l>
+     <stg>
+       <st Contlex="PRON_KAIKKI" status="Pron+Qu">kaik</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ken</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Nom+Use/Marg">ken</st>
+       <st Contlex="PRON_MÄÄ" status="Pron">ken</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kenkin</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Nom+Use/Marg">kenkin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kenkään</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Nom+Use/Marg">kenkään</st>
+       <st Contlex="PRON_MÄÄ" status="Pron">kenkään</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuinka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr">kuinka</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+s">kuinkas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Abl">kulta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Abl+Use/Marg">kulta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Acc+Use/Marg">kutka</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ade">kulla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ade+Use/Marg">kulla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+All">kulle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+All+Use/Marg">kulle</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ela">kusta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ela+Use/Marg">kusta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ill">kuhun</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ill+Use/Marg">kuhun</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ine+Use/Marg">kussa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Nom">kuka</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Par">kuta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Par+Use/Marg">kuta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Abl">kulta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Ade">kulla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+All">kulle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Ela">kusta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Ill">kuhun</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Nom">kuka</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Rel+Sg+Par">kuta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Abe">keittä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Abe">keittäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Abl">keiltä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Abl">keiltäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Acc">ketkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Acc">ketkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ade">keillä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ade">keilläkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+All">keille</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+All">keillekä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+All">keillekäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Com">keine</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Com">keinekä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Com">keinekäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ela">keistä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ela">keistäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ess">keinä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ess">keinäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Gen">keiden</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Gen">keidenkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Gen">keidenkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ill">keihin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ill">keihinkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ill">keihinkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ine">keissä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ine">keissäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ins">kein</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ins">keinkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ins">keinkäis</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Nom">ketkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Nom">ketkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Par">keitä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Par">keitäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Tra">keiksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Tra">keiksikä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Tra">keiksikäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Abe">kenettä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Abe">kenettäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Abl">keneltä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Abl">keneltäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Abl+Use/NG+Dial/Standard">keltä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Abl+Use/NG+Dial/Standard">keltäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Acc">kenet</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Acc">kenetkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Acc">kenetkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Acc+Use/NG+Dial/Standard">ketkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Acc+Use/NG+Dial/Standard">ketkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ade">kenellä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ade">kenelläkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ade+Use/NG+Dial/Standard">kellä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ade+Use/NG+Dial/Standard">kelläkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+All">kenelle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+All">kenellekä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+All">kenellekäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+All+Use/NG+Dial/Standard">kelle</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+All+Use/NG+Dial/Standard">kellekä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+All+Use/NG+Dial/Standard">kellekäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Com">kene</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Com">kenekä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ela">kenestä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ela">kenestäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ela+Use/NG+Dial/Standard">kestä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ela+Use/NG+Dial/Standard">kestäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ess">kenenä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ess">kenenäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ess+Use/NG+Dial/Standard">kenä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ess+Use/NG+Dial/Standard">kenäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Gen">kenen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Gen">kenenkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Gen">kenenkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ill">kehen</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ill">keneen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ill">keneenkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ill">keneenkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ine">kenessä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ine">kenessäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ins">kenen</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Par">ketä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Tra">keneksi</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Abe">keittä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Abe">keittäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Abl">keiltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Abl">keiltäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Acc">ketkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Acc">ketkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ade">keillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ade">keilläkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+All">keille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+All">keillekä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+All">keillekäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Com">keine</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Com">keinekä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Com">keinekäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ela">keistä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ela">keistäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ess">keinä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ess">keinäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Gen">keiden</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Gen">keidenkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Gen">keidenkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ill">keihin</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ill">keihinkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ill">keihinkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ine">keissä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ine">keissäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ins">kein</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ins">keinkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ins">keinkäis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Nom">ketkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Nom">ketkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Par">keitä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Par">keitäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Tra">keiksi</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Tra">keiksikä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Tra">keiksikäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Abe">kenettä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Abe">kenettäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Abl">keneltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Abl">keneltäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Acc">kenet</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Acc">kenetkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Acc">kenetkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ade">kenellä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ade">kenelläkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+All">kenelle</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+All">kenellekä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+All">kenellekäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Com">kene</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Com">kenekä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ela">kenestä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ela">kenestäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ess">kenenä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ess">kenenäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Gen">kenen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Gen">kenenkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Gen">kenenkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ill">kehen</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ill">keneen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ill">keneenkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ill">keneenkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ine">kenessä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ine">kenessäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ins">kenen</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Par">ketä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Tra">keneksi</st>
+       <st Contlex="PRON_KUKA" status="Pron">k</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kuka</l>
+     <stg>
+       <st Contlex="PRON_KUKA" status="Pron">k</st>
+       <st Contlex="PRON_KUKA" status="Pron">k</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kukaan</l>
+     <stg>
+       <st Contlex="PRON_KUKAAN" status="Pron">k</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kukakin</l>
+     <stg>
+       <st Contlex="PRON_KUKAKIN" status="Pron">k</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kukin</l>
+     <stg>
+       <st Contlex="PRON_KUKIN" status="Pron">k</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpainen</l>
+     <stg>
+       <st Contlex="PRON_JOKAINEN" status="Pron">kumpai</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpainenkin</l>
+     <stg>
+       <st Contlex="PRON_KOKO" status="Pron">kumpainenkin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Abe">kummitta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Abl">kummilta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ade">kummilla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+All">kummille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Com">kumpine</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ela">kummista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ess">kumpina</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Gen">kumpien</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ill">kumpiin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ine">kummissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ins">kummin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Nom">kummat</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Par">kumpia</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Tra">kummiksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Abl">kummalta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ade">kummalla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+All">kummalle</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ela">kummasta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ess">kumpana</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Gen">kumman</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ill">kumpaan</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ine">kummassa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ins">kumman</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Nom">kumpi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Par">kumpaa</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Tra">kummaksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpi</l>
+     <stg>
+       <st Contlex="PRON_KUMPI" status="Pron">kum</st>
+       <st Contlex="PRON_KUMPI" status="Pron">kum</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpikaan</l>
+     <stg>
+       <st Contlex="PRON_KUMPIKAAN" status="Pron">kum</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">kumpikin</l>
+     <stg>
+       <st Contlex="PRON_KUMPIKIN" status="Pron">kum</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ma</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Nom+Use/Marg">ma</st>
+       <st Contlex="PRON_MA" status="Pron">ma</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">me</l>
+     <stg>
+       <st Contlex="PRON_ME" status="Pron+Pers+Pl1">me</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">meitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl1+Abl+Use/NG+Dial/West">meittiltä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl1+Ade+Use/NG+Dial/West">meittillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">meitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl1+All+Use/NG+Dial/West">meittille</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl1+Ela+Use/NG+Dial/West">meittissä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">meitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl1+Ess+Use/NG+Dial/West">meittinä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl1+Gen+Use/NG+Dial/West">meittin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">meitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl1+Ill+Use/NG+Dial/West">meittiin</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl1+Ine+Use/NG+Dial/West">meittissä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">meitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl1+Nom+Use/NG+Dial/West">meitti</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl1+Par+Use/NG+Dial/West">meittiä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mi</l>
+     <stg>
+       <st Contlex="PRON_KOKO" status="Pron">mi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Abl+Use/NG+Dial/East">miulta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Acc+Use/NG+Dial/East">miut</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Ade+Use/NG+Dial/East">miulla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+All+Use/NG+Dial/East">miulle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Ela+Use/NG+Dial/East">miusta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Ess+Use/NG+Dial/East">miuna</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Gen+Use/NG+Dial/East">miun</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Ill+Use/NG+Dial/East">minnuun</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Ill+Use/NG+Dial/East">miuhun</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Ine+Use/NG+Dial/East">miussa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Par+Use/NG+Dial/East">minnuu</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Par+Use/NG+Dial/East">minuu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Par+Use/NG+Dial/East">miua</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Par+Use/NG+Dial/East">miuta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Tra+Use/NG+Dial/East">miuks</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Tra+Use/NG+Dial/East">miuksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mie</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Sg1+Nom+Use/NG+Dial/East">mie</st>
+       <st Contlex="PRON_MIE" status="Pron">mi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikin</l>
+     <stg>
+       <st Contlex="PRON_MIKIN" status="Pron">mi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Com">mine</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Com">minekä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Com">minekäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ins">minkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Ins+Use/NG">minkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Nom">mitkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Pl+Nom+Use/NG">mitkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Abe">mittä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Abe">mittäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Abl">miltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Abl">miltäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ade">millä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ade">milläkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+All">mille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+All+Use/NG">millekä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+All+Use/NG">millekäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ela">mistä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ela+Use/NG">mistäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ess">minä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ess+Use/NG">minäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Gen">minkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Gen+Use/NG">minkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ill">mihin</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ill+Use/NG">mihinkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ill+Use/NG">mihinkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ill+s">mihis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ine">missä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ine+Use/NG">missäkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ine+Use/NG">missäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Ine+s">missäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Nom">mikä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Nom+Use/NG">mikäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Par">mitä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Par+Use/NG">mitäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Par+Use/NG">mitäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Tra">miksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Tra+Use/NG">miksikä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Interr+Sg+Tra+Use/NG">miksikäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Abe">mittä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Abe+Use/NG">mittäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Abl">miltä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Abl+Use/NG">miltäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ade">millä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ade+Use/NG">milläkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+All">mille</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+All+Use/NG">millekä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+All+Use/NG">millekäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Com">mine</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Com+Use/NG">minekä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Com+Use/NG">minekäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ela">mistä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ela+Use/NG">mistäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ess">minä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ess+Use/NG">minäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Gen">minkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Gen+Use/NG">minkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ill">mihin</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ill+Use/NG">mihinkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ill+Use/NG">mihinkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ine">missä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ine+Use/NG">missäkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ine+Use/NG">missäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ins">minkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Ins+Use/NG">minkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Nom">mitkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Nom+Use/NG">mikäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Nom+Use/NG">mitkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Par">mitä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Par+Use/NG">mitäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Par+Use/NG">mitäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Tra">miksi</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Tra+Use/NG">miksikä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Pl+Tra+Use/NG">miksikäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Abe">mittä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Abe+Use/NG">mittäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Abl">miltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Abl+Use/NG">miltäkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ade">millä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ade+Use/NG">milläkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+All">mille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+All+Use/NG">millekä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+All+Use/NG">millekäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ela">mistä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ela+Use/NG">mistäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ess">minä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ess+Use/NG">minäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Gen">minkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Gen+Use/NG">minkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ill">mihin</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ill+Use/NG">mihinkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ill+Use/NG">mihinkäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ine">missä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ine+Use/NG">missäkä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Ine+Use/NG">missäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Nom">mikä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Nom+Use/NG">mikäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Par">mitä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Par+Use/NG">mitäkäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Par+Use/NG">mitäs</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Tra">miksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Tra+Use/NG">miksikä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Rel+Sg+Tra+Use/NG">miksikäs</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikä</l>
+     <stg>
+       <st Contlex="PRON_MIKÄ" status="Pron">mi</st>
+       <st Contlex="PRON_MIKÄ" status="Pron">mi</st>
+       <st Contlex="PRON_MIKÄ" status="Pron">mi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikäkin</l>
+     <stg>
+       <st Contlex="PRON_MIKÄKIN" status="Pron">mi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mikään</l>
+     <stg>
+       <st Contlex="PRON_MIKÄÄN" status="Pron+Qnt">mi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">millainen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Abe">millaisitta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Abl">millaisilta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">millainen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ade">millaisilla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+All">millaisille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">millainen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Com">millaisine</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ela">millaisista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">millainen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ess">millaisina</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Gen">millaisten</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">millainen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ill">millaisiin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ine">millaisissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">millainen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ins">millaisin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Nom">millaiset</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">millainen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Par">millaisia</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Tra">millaisiksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">millainen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Abe">millaisetta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Abl">millaiselta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">millainen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ade">millaisella</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+All">millaiselle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">millainen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ela">millaisesta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ess">millaisena</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">millainen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Gen">millaisen</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ill">millaiseen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">millainen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ine">millaisessa</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ins">millaisen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">millainen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Nom">millainen</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Par">millaista</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Tra">millaiseksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">minä</l>
+     <stg>
+       <st Contlex="PRON_MINÄ" status="Pron+Pers+Sg1">mi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">molemmat</l>
+     <stg>
+       <st Contlex="PRON_MOLEMMAT" status="Pron">molem</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Abe">monensitta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Abl">monensilta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ade">monensilla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+All">monensille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Com">monensine</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ela">monensista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ess">monensina</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Gen">monensien</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ill">monensiin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ine">monensissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Ins">monensin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Nom">monennet</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Par">monensia</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Pl+Tra">monensiksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Abe">monennetta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Abl">monennelta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ade">monennella</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+All">monennelle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ela">monennesta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ess">monentena</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Gen">monennen</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ill">monenteen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ine">monennessa</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Ins">monennen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Nom">mones</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Par">monetta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mones</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Interr+Sg+Tra">monenneksi</st>
+       <st Contlex="PRON_MONES" status="Pron">mone</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">moni</l>
+     <stg>
+       <st Contlex="PRON_MONI" status="Pron">mon</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monias</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Abe">moniaitta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Abl">moniailta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monias</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ade">moniailla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+All">moniaille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monias</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Com">moniaine</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ela">moniaista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monias</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ess">moniaina</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Gen">moniaiden</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monias</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ill">moniaisiin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ine">moniaissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monias</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ins">moniain</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Nom">moniaat</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monias</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Par">moniaita</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Tra">moniaiksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monias</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Abe">moniaatta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Abl">moniaalta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monias</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+All">moniaalle</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ela">moniaasta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monias</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ess">moniaana</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Gen">moniaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monias</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ill">moniaaseen</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ine">moniaassa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monias</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ins">moniaan</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Nom">monias</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monias</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Par">moniasta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Tra">moniaaksi</st>
+       <st Contlex="PRON_MONIAS" status="Pron">monia</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monituinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Abe">monituisitta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Abl">monituisilta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monituinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ade">monituisilla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+All">monituisille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monituinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Com">monituisine</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ela">monituisista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monituinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ess">monituisina</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Gen">monituisten</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monituinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ill">monituisiin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ine">monituisissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monituinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ins">monituisin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Nom">monituiset</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monituinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Par">monituisia</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Tra">monituisiksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monituinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Abe">monituisetta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Abl">monituiselta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monituinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ade">monituisella</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+All">monituiselle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monituinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ela">monituisesta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ess">monituisena</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monituinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Gen">monituisen</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ill">monituiseen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monituinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ine">monituisessa</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ins">monituisen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monituinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Nom">monituinen</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Par">monituista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monituinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Tra">monituiseksi</st>
+       <st Contlex="PRON_JOKAINEN" status="Pron">monitui</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">monta</l>
+     <stg>
+       <st Contlex="PRON_MONTA" status="Pron">monta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muu</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Abe">muitta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Abl">muilta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muu</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ade">muilla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+All">muille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muu</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ela">muista</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ess">muina</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muu</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Gen">muin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ill">muihun</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muu</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ine">muissa</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ins">muin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muu</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Nom">muut</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Par">muita</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muu</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Tra">muiksi</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Abe">muutta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muu</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Abl">muulta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ade">muulla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muu</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+All">muulle</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ela">muusta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muu</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ess">muuna</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Gen">muun</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muu</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ill">muuhun</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ine">muussa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muu</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ins">muun</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Nom">muu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muu</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Par">muuta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Tra">muuksi</st>
+       <st Contlex="PRON_MUU" status="Pron">mu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muuan</l>
+     <stg>
+       <st Contlex="PRON_MUUAN" status="Pron">muua</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muudan</l>
+     <stg>
+       <st Contlex="PRON_MUUAN" status="Pron">muuda</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">muutama</l>
+     <stg>
+       <st Contlex="PRON_MUUTAMA" status="Pron">muutam</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">myö</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl1+Acc+Use/NG+Dial/East">meiät</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl1+Gen+Use/NG+Dial/East">meiän</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl1+Nom+Use/NG+Dial/East">myö</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mä</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Abl+Use/NG+Dial/Standard">multa</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Acc+Use/NG+Dial/Standard">mut</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mä</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Ade+Use/NG+Dial/Standard">mulla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+All+Use/NG+Dial/Standard">mulle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mä</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Ela+Use/NG+Dial/Standard">musta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Ess+Use/NG+Dial/Standard">muna</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mä</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Gen+Use/NG+Dial/Standard">mun</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Ill+Use/NG+Dial/Standard">muhun</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mä</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Ine+Use/NG+Dial/Standard">mussa</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Par+Use/NG+Dial/Standard">mua</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mä</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg1+Tra+Use/NG+Dial/Standard">muksi</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Sg1+Nom+Use/NG+Dial/Standard">mä</st>
+       <st Contlex="PRON_MÄ" status="Pron+Pers+Sg1">m</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">mää</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Sg1+Nom+Use/NG+Dial/West">mää</st>
+       <st Contlex="PRON_MÄÄ" status="Pron">mää</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ne</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Abe">niittä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Abl+Use/NG">niiltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ne</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Abl+Use/NG+Dial/Standard">niilt</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Ade+Use/NG">niillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ne</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Ade+Use/NG+Dial/Standard">niil</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+All">niille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ne</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Com">niine</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Ela">niistä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ne</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Ess">niinä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Gen">niiden</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ne</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Ill">niihin</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Ine">niissä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ne</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Ins">niin</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Nom">ne</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ne</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Par">niitä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Tra">niiksi</st>
+       <st Contlex="PRON_NE" status="Pron">n</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">noi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Nom">noi</st>
+       <st Contlex="PRON_NOI" status="Pron">noi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Abe">noitta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Abl">noilta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Ade">noilla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+All">noille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Com">noine</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Ela">noista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Ess">noina</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Gen">noiden</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Gen+Use/NG">noitten</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Ill">noihin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Ine">noissa</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Ins">noin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Nom">nuo</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Par">noita</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Pl+Tra">noiksi</st>
+       <st Contlex="PRON_NUO" status="Pron">n</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Abe">näittä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Abl">näiltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Ade">näillä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+All">näille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Com">näine</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Ela">näistä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Ess">näinä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Gen">näiden</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Gen+Use/NG">näitten</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Ill">näihin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Ine">näissä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Ins">näin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Nom">nämä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Par">näitä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Tra">näiksi</st>
+       <st Contlex="PRON_NÄMÄ" status="Pron">nä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">nää</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Pl+Nom">nää</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sa</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Nom+Use/Marg">sa</st>
+       <st Contlex="PRON_MA" status="Pron">sa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Abe">samoitta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Abl">samoilta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ade">samoilla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+All">samoille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Com">samoine</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ela">samoista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ess">samoina</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Gen">samojen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ill">samoihin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ine">samoissa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Ins">samoin</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Nom">samat</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Par">samoja</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pl+Tra">samoiksi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Abe">samatta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Abl">samalta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ade">samalla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+All">samalle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ela">samasta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ess">samana</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Gen">saman</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ill">samaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ine">samassa</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Ins">saman</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Nom">sama</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Par">samaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sama</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Sg+Tra">samaksi</st>
+       <st Contlex="PRON_SAMA" status="Pron">sam</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">se</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Abe">sittä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Abl">sieltä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">se</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Abl">siltä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Abl+Use/NG+Dial/Standard">sielt</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">se</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ade">siellä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ade">sillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">se</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ade+Use/NG+Dial/Standard">siel</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+All">sille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">se</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Com">sine</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ela">siitä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">se</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ela+Use/NG+Dial/Standard">siit</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ess">sinä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">se</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Gen">sen</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ill">siihen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">se</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ine+Use/NG">siinä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ine+Use/NG+Dial/Standard">siin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">se</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ine+Use/NG+Dial/Standard">siin</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ins">sen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">se</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Nom">se</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Par">sitä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">se</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Tra">siksi</st>
+       <st Contlex="PRON_SE" status="Pron">s</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Abl+Use/NG+Dial/East">siulta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Acc+Use/NG+Dial/East">siut</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Ade+Use/NG+Dial/East">siulla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+All+Use/NG+Dial/East">siulle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Ela+Use/NG+Dial/East">siusta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Ess+Use/NG+Dial/East">siuna</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Gen+Use/NG+Dial/East">siun</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Ill+Use/NG+Dial/East">sinnuun</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Ill+Use/NG+Dial/East">siuhun</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Ine+Use/NG+Dial/East">siussa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Par+Use/NG+Dial/East">sinnuu</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Par+Use/NG+Dial/East">sinuu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Par+Use/NG+Dial/East">siua</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Par+Use/NG+Dial/East">siuta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sie</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Tra+Use/NG+Dial/East">siuksi</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Sg2+Nom+Use/NG+Dial/East">sie</st>
+       <st Contlex="PRON_MIE" status="Pron">si</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sinä</l>
+     <stg>
+       <st Contlex="PRON_MINÄ" status="Pron+Pers+Sg2">si</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sä</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Abl+Use/NG+Dial/Standard">sulta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Acc+Use/NG+Dial/Standard">sut</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sä</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Ade+Use/NG+Dial/Standard">sulla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+All+Use/NG+Dial/Standard">sulle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sä</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Ela+Use/NG+Dial/Standard">susta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Ess+Use/NG+Dial/Standard">suna</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sä</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Gen+Use/NG+Dial/Standard">sun</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Ill+Use/NG+Dial/Standard">suhun</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sä</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Ine+Use/NG+Dial/Standard">sussa</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Par+Use/NG+Dial/Standard">sua</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sä</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Pers+Sg2+Tra+Use/NG+Dial/Standard">suksi</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Sg2+Nom+Use/NG+Dial/Standard">sä</st>
+       <st Contlex="PRON_MÄ" status="Pron+Pers+Sg2">s</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">sää</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Sg1+Nom+Use/NG+Dial/West">sää</st>
+       <st Contlex="PRON_MÄÄ" status="Pron">sää</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">te</l>
+     <stg>
+       <st Contlex="PRON_ME" status="Pron+Pers+Pl2">te</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">teitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl2+Abl+Use/NG+Dial/West">teittiltä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl2+Ade+Use/NG+Dial/West">teittillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">teitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl2+All+Use/NG+Dial/West">teittille</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl2+Ela+Use/NG+Dial/West">teittissä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">teitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl2+Ess+Use/NG+Dial/West">teittinä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl2+Gen+Use/NG+Dial/West">teittin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">teitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl2+Ill+Use/NG+Dial/West">teittiin</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl2+Ine+Use/NG+Dial/West">teittissä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">teitti</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl2+Nom+Use/NG+Dial/West">teitti</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl2+Par+Use/NG+Dial/West">teittiä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Abl">tolta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Ade">tolla</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+All">tolle</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Ela">tosta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Ess">tona</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Gen">ton</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Ill">tohon</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Ine">tossa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Nom">toi</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Par">tota</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toi</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Tra">toksi</st>
+       <st Contlex="PRON_TOI" status="Pron">to</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_POSS_AN_OPT" status="Pron+Recipr+Pl+Ela">toisista</st>
+       <st Contlex="PRON_BACK_POSS_AN_OPT" status="Pron+Recipr+Pl+Ess">toisina</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_POSS_AN_OPT" status="Pron+Recipr+Pl+Ine">toisissa</st>
+       <st Contlex="PRON_BACK_POSS_AN_OPT" status="Pron+Recipr+Pl+Par">toisia</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_POSS_AN_OPT" status="Pron+Recipr+Sg+Abe">toisetta</st>
+       <st Contlex="PRON_BACK_POSS_AN_OPT" status="Pron+Recipr+Sg+Abl">toiselta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_POSS_AN_OPT" status="Pron+Recipr+Sg+Ade">toisella</st>
+       <st Contlex="PRON_BACK_POSS_AN_OPT" status="Pron+Recipr+Sg+Ela">toisesta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_POSS_AN_OPT" status="Pron+Recipr+Sg+Ess">toisena</st>
+       <st Contlex="PRON_BACK_POSS_AN_OPT" status="Pron+Recipr+Sg+Ine">toisessa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_POSS_AN_OPT" status="Pron+Recipr+Sg+Par">toista</st>
+       <st Contlex="PRON_BACK_POSS_EN_OPT" status="Pron+Recipr+Pl+Com">toisine</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_POSS_EN_OPT" status="Pron+Recipr+Sg+All">toiselle</st>
+       <st Contlex="PRON_BACK_POSS_EN_OPT" status="Pron+Recipr+Sg+Tra">toisekse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_POSS_OPT" status="Pron+Recipr+Pl+Abe">toisitta</st>
+       <st Contlex="PRON_BACK_POSS_OPT" status="Pron+Recipr+Pl+Abl">toisilta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_POSS_OPT" status="Pron+Recipr+Pl+Ade">toisilla</st>
+       <st Contlex="PRON_BACK_POSS_OPT" status="Pron+Recipr+Pl+All">toisille</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_POSS_OPT" status="Pron+Recipr+Pl+Gen">toisten</st>
+       <st Contlex="PRON_BACK_POSS_OPT" status="Pron+Recipr+Pl+Ill">toisiin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_POSS_OPT" status="Pron+Recipr+Pl+Ins">toisin</st>
+       <st Contlex="PRON_BACK_POSS_OPT" status="Pron+Recipr+Pl+Nom">toiset</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_POSS_OPT" status="Pron+Recipr+Pl+Tra">toisiksi</st>
+       <st Contlex="PRON_BACK_POSS_OPT" status="Pron+Recipr+Sg+Gen">toisen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_POSS_OPT" status="Pron+Recipr+Sg+Ill">toiseen</st>
+       <st Contlex="PRON_BACK_POSS_OPT" status="Pron+Recipr+Sg+Ins">toisen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">toinen</l>
+     <stg>
+       <st Contlex="PRON_BACK_POSS_OPT" status="Pron+Recipr+Sg+Nom">toisen</st>
+       <st Contlex="PRON_TOINEN" status="Pron">toi</st>
+       <st Contlex="PRON_TOINEN" status="Pron">toi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Abe">tuotta</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Abl">tuolta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Ade">tuolla</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+All">tuolle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Com">tuone</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Ela">tuosta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Ess">tuona</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Gen">tuon</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Ill">tuohon</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Ine">tuossa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Ins">tuon</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Nom">tuo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tuo</l>
+     <stg>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Par">tuota</st>
+       <st Contlex="PRON_BACK_CLIT_OPT" status="Pron+Dem+Sg+Tra">tuoksi</st>
+       <st Contlex="PRON_TUO" status="Pron">t</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">työ</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl2+Acc+Use/NG+Dial/East">teiät</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl2+Gen+Use/NG+Dial/East">teiän</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Pers+Pl2+Nom+Use/NG+Dial/East">työ</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Abe">tättä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Abl">tältä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ade">tällä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+All">tälle</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Com">täne</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ela">tästä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ess">tänä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Gen">tämän</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ill">tähän</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ine">tässä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Ins">tämän</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Nom">tämä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tämä</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Par">tätä</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Tra">täksi</st>
+       <st Contlex="PRON_TÄMÄ" status="Pron">tä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">tää</l>
+     <stg>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Gen">tän</st>
+       <st Contlex="PRON_FRONT_CLIT_OPT" status="Pron+Dem+Sg+Nom">tää</st>
+       <st Contlex="PRON_MÄÄ" status="Pron">tää</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">usea</l>
+     <stg>
+       <st Contlex="PRON_USEA" status="Pron">use</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">useampi</l>
+     <stg>
+       <st Contlex="PRON_USEAMPI" status="Pron">useam</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">useimmat</l>
+     <stg>
+       <st Contlex="PRON_USEIMMAT" status="Pron">usei</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">yks</l>
+     <stg>
+       <st Contlex="PRON_MÄÄ" status="Pron">yks</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">yksi</l>
+     <stg>
+       <st Contlex="PRON_YKSI" status="Pron">y</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">yksikään</l>
+     <stg>
+       <st Contlex="PRON_KOKO" status="Pron">yksikään</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+</r> 

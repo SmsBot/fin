@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-<r xml:lang="fin">
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
 <e>
    <lg>
      <l pos="Adp">myöten</l>
@@ -17,7 +17,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">aikaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -27,7 +27,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">ali</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -37,7 +37,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">alitse</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -47,7 +47,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">alkaen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -57,7 +57,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">alla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -67,7 +67,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">alle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -77,7 +77,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">alta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -87,7 +87,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">ansiosta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -97,7 +97,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">armosta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -107,7 +107,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">asemesta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -117,7 +117,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">asti</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -127,7 +127,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">edelle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -137,7 +137,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">edeltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -147,7 +147,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">edestä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -157,7 +157,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">editse</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -167,7 +167,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">ennen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -177,7 +177,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">ensisilmäys</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -187,7 +187,7 @@
        <st Contlex="ADP_FRONT_POSS" status="Po">eteen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -197,7 +197,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">etäälle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -207,7 +207,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">hallussa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -218,7 +218,7 @@
        <st Contlex="ADP_BACK_POSS" status="Po">haltuu</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -228,7 +228,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">hampaisiin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -238,7 +238,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">hampaissa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -248,7 +248,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">hampaista</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -258,7 +258,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">hoteissa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -268,7 +268,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">hoteista</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -278,7 +278,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">huippuvuonna</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -288,7 +288,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">huolimatta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -298,7 +298,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">huomaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -308,7 +308,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">huomassa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -318,7 +318,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">huostaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -328,7 +328,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">huostassa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -338,7 +338,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">huostasta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -348,7 +348,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">hännille</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -358,7 +358,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">hännillä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -368,7 +368,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">hänniltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -379,7 +379,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Pr">ilman</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -389,7 +389,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Pr">irti</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -399,7 +399,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">jalkoihin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -409,7 +409,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">jaloissa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -419,7 +419,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">jaloista</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -429,7 +429,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">johdosta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -439,7 +439,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">johtuen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -449,7 +449,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">jäljestä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -459,7 +459,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">jäljiltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -469,7 +469,7 @@
        <st Contlex="ADP_FRONT_POSS" status="Po">jälkeen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -479,7 +479,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kaa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -489,7 +489,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kannalla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -499,7 +499,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">kannalle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -509,7 +509,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kannalta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -519,7 +519,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kannoilla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -529,7 +529,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">kannoille</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -539,7 +539,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kannoilta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -549,7 +549,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kanssa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -559,7 +559,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">katsoen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -569,7 +569,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">katsomatta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -579,7 +579,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kautta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -589,7 +589,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kera</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -599,7 +599,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">keskelle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -609,7 +609,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">keskeltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -619,7 +619,7 @@
        <st Contlex="ADP_FRONT_POSS" status="Po">kesken</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -629,7 +629,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">keskestä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -639,7 +639,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">keskuudessa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -649,7 +649,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">keskuudesta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -659,7 +659,7 @@
        <st Contlex="ADP_BACK_POSS" status="Po">keskuuteen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -669,7 +669,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">kieppeille</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -679,7 +679,7 @@
        <st Contlex="ADP_BACK_POSS" status="Po">kimppuun</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -689,7 +689,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">kintereille</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -699,7 +699,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kintereillä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -709,7 +709,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kintereiltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -719,7 +719,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kohden</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -729,7 +729,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kohti</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -739,7 +739,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">korvilla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -749,7 +749,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">korville</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -759,7 +759,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">koskien</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -769,7 +769,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kouriin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -779,7 +779,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kourissa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -789,7 +789,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kourista</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -799,7 +799,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kuluessa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -809,7 +809,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kuluttua</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -819,7 +819,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">kupeelle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -829,7 +829,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kupeeseen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -839,7 +839,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">kupeesta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -849,7 +849,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kustannuksella</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -859,7 +859,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">kynsiin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -869,7 +869,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kynsissä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -879,7 +879,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">kynsistä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -889,7 +889,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">käsissä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -899,7 +899,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">laidalla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -909,7 +909,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">laidalle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -919,7 +919,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">laidalta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -929,7 +929,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">laidassa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -939,7 +939,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">laidasta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -949,7 +949,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">laitaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -959,7 +959,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">laskematta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -969,7 +969,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">liepeille</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -979,7 +979,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">liepeiltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -989,7 +989,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">liittyen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -999,7 +999,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">likelle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1009,7 +1009,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">likeltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1019,7 +1019,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">liki</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1029,7 +1029,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">lisäksi</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1039,7 +1039,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">lomaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1049,7 +1049,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">lomassa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1059,7 +1059,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">lomasta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1069,7 +1069,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">lomitse</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1079,7 +1079,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">lukien</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1089,7 +1089,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">lukuun ottamatta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1099,7 +1099,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">luo</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1109,7 +1109,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">luokse</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1119,7 +1119,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">luvalla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1129,7 +1129,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">lähelle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1139,7 +1139,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">läheltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1149,7 +1149,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">lähettyville</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1159,7 +1159,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">lähettyvillä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1169,7 +1169,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">lähettyviltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1179,7 +1179,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">lähtien</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1189,7 +1189,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">lähtöisin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1199,7 +1199,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">läpi</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1209,7 +1209,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">lävitse</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1219,7 +1219,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">maissa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1229,7 +1229,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">maista</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1239,7 +1239,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">mennessä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1249,7 +1249,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">mielestä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1259,7 +1259,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">muassa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1269,7 +1269,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">mukaan luettuna</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1279,7 +1279,7 @@
        <st Contlex="ADP_BACK_POSS" status="Po">mukaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1289,7 +1289,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">muodossa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1299,7 +1299,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">myöden</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1309,7 +1309,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">myötä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1319,7 +1319,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nimeen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1329,7 +1329,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nimiin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1339,7 +1339,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">nimissä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1349,7 +1349,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">niskalla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1359,7 +1359,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">niskalle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1369,7 +1369,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">niskalta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1379,7 +1379,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nykyä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1389,7 +1389,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nähden</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1399,7 +1399,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nähtäviin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1409,7 +1409,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nähtäville</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1419,7 +1419,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nähtävillä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1429,7 +1429,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">nähtävissä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1439,7 +1439,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">näkyville</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1449,7 +1449,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">näkyviltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1459,7 +1459,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">näkyvistä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1469,7 +1469,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">näkökulmasta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1479,7 +1479,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">oheen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1489,7 +1489,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">ohella</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1499,7 +1499,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">ohessa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1509,7 +1509,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">ohesta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1519,7 +1519,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">ohi</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1529,7 +1529,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">ohitse</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1539,7 +1539,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">paikkeille</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1549,7 +1549,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">paikkeilta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1559,7 +1559,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">paitsi</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1569,7 +1569,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">pakeille</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1579,7 +1579,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">pakeiltaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1589,7 +1589,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">parissa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1599,7 +1599,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">parista</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1609,7 +1609,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">perusteella</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1619,7 +1619,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">perustuen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1629,7 +1629,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">peräisin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1639,7 +1639,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">perältä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1649,7 +1649,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">perässä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1659,7 +1659,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">perästä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1669,7 +1669,7 @@
        <st Contlex="ADP_FRONT_POSS" status="Po">perään</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1679,7 +1679,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pinnalla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1689,7 +1689,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">pinnalle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1699,7 +1699,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pinnalta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1709,7 +1709,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pinnassa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1719,7 +1719,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pinnasta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1729,7 +1729,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">pintaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1739,7 +1739,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">pitkin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1749,7 +1749,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">pitäen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1759,7 +1759,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">pohjaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1769,7 +1769,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pohjalla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1779,7 +1779,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">pohjalle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1789,7 +1789,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pohjalta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1799,7 +1799,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pohjassa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1809,7 +1809,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">pohjasta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1819,7 +1819,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">poikin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1829,7 +1829,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">puheille</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1839,7 +1839,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">puitteissa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1849,7 +1849,7 @@
        <st Contlex="ADP_BACK_POSS" status="Po">puoleen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1859,7 +1859,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">puolessa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1869,7 +1869,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">puolesta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1879,7 +1879,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">päin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1889,7 +1889,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">päälle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1899,7 +1899,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">päällitse</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1909,7 +1909,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">päällä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1919,7 +1919,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">päältä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1929,7 +1929,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">päässä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1939,7 +1939,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">reunaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1949,7 +1949,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">reunalla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1959,7 +1959,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">reunalle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1969,7 +1969,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">reunalta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1979,7 +1979,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">reunassa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1989,7 +1989,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">reunasta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -1999,7 +1999,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">riippuen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2009,7 +2009,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">rinnalla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2019,7 +2019,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">rinnalle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2029,7 +2029,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">rinnalta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2039,7 +2039,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">saakka</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2049,7 +2049,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">saatavilla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2059,7 +2059,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">saataville</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2069,7 +2069,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">saatavilta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2079,7 +2079,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">seassa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2089,7 +2089,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">seasta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2099,7 +2099,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">sekaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2109,7 +2109,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">sen takia</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2119,7 +2119,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">seutuville</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2129,7 +2129,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">silmässä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2139,7 +2139,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">silmästä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2149,7 +2149,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">silmään</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2159,7 +2159,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">sisältä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2169,7 +2169,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">sisässä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2179,7 +2179,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">sisästä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2189,7 +2189,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">sivuitse</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2199,7 +2199,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">sivussa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2209,7 +2209,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">suhteen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2219,7 +2219,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">suuhun</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2229,7 +2229,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">suussa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2239,7 +2239,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">suusta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2249,7 +2249,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">syntyisin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2259,7 +2259,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">säveltämisvuonna</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2269,7 +2269,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">taakse</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2279,7 +2279,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">taitse</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2289,7 +2289,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">takaa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2299,7 +2299,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">takia</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2309,7 +2309,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">tanaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2319,7 +2319,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">tanassa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2329,7 +2329,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">tapaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2339,7 +2339,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">tasalla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2349,7 +2349,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">tasalle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2359,7 +2359,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">tasalta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2369,7 +2369,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">tasasta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2379,7 +2379,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">tautta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2389,7 +2389,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">tiimoilta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2399,7 +2399,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">tuella</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2409,7 +2409,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">turvin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2419,7 +2419,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">tykönä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2429,7 +2429,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">tähden</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2439,7 +2439,7 @@
        <st Contlex="ADP_BACK_POSS" status="Po">ulottuviin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2449,7 +2449,7 @@
        <st Contlex="ADP_BACK_POSS_EN_OPT" status="Po">ulottuville</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2459,7 +2459,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vailla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2469,7 +2469,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vaille</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2479,7 +2479,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">valossa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2489,7 +2489,7 @@
        <st Contlex="ADP_BACK_POSS" status="Po">varaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2499,7 +2499,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varalla</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2509,7 +2509,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varalle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2519,7 +2519,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varalta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2529,7 +2529,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">varassa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2539,7 +2539,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">varasta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2549,7 +2549,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varrelle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2559,7 +2559,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varressa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2569,7 +2569,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varresta</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2579,7 +2579,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varteen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2589,7 +2589,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">varten</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2599,7 +2599,7 @@
        <st Contlex="ADP_BACK_POSS" status="Po">vastaan</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2609,7 +2609,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">vastassa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2619,7 +2619,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vasten</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2629,7 +2629,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vastoin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2639,7 +2639,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">verrattuna</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2649,7 +2649,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">vierelle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2659,7 +2659,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">vierellä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2669,7 +2669,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">viereltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2679,7 +2679,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">vierestä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2689,7 +2689,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vuokseen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2699,7 +2699,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vuoksemme</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2709,7 +2709,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vuokseni</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2719,7 +2719,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vuoksenne</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2729,7 +2729,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vuoksensa</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2739,7 +2739,7 @@
        <st Contlex="ADP_BACK_CLIT_OPT" status="Po">vuoksesi</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2749,7 +2749,7 @@
        <st Contlex="ADP_BACK_POSS" status="Po">vuoksi</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2759,7 +2759,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">väliltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2769,7 +2769,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">välistä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2779,7 +2779,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">välitse</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2789,7 +2789,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">ylettyville</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2799,7 +2799,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">ylettyvillä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2809,7 +2809,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">ylettyviltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2820,7 +2820,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Pr">yli</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2830,7 +2830,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">ylitse</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2840,7 +2840,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">ylle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2850,7 +2850,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">yllä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2860,7 +2860,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">yltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2870,7 +2870,7 @@
        <st Contlex="ADP_FRONT_POSS_EN_OPT" status="Po">ympärille</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2880,7 +2880,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">ympärillä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2890,7 +2890,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">ympäriltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2900,7 +2900,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">ääreen</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2910,7 +2910,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">äärelle</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2920,7 +2920,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">äärellä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2930,7 +2930,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">ääreltä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2940,7 +2940,7 @@
        <st Contlex="ADP_FRONT_POSS_ÄN_OPT" status="Po">äärestä</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>
@@ -2950,7 +2950,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">ääriin</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 </r> 

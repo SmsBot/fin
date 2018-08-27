@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xml:lang="fin">
+<?xml version="1.0" encoding="UTF-8"?> 
+<r xml:lang="fin">
 <e>
    <lg>
      <l pos="Adp">myöten</l>
@@ -6,7 +7,7 @@
        <st Contlex="ADP_FRONT_CLIT_OPT" status="Po">myöten</st>
      </stg>
    </lg>
-   <mg>
+   <mg relId="0">
    </mg>
 </e>
 <e>

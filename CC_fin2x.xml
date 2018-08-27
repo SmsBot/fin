@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xml:lang="fin">
+<e>
+   <lg>
+     <l pos="CC">eikä</l>
+     <stg>
+       <st Contlex="#" status="CC">eikä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">eli</l>
+     <stg>
+       <st Contlex="#" status="CC">eli</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">elikkä</l>
+     <stg>
+       <st Contlex="#" status="CC">elikkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">enkä</l>
+     <stg>
+       <st Contlex="#" status="CC">enkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">että</l>
+     <stg>
+       <st Contlex="#" status="CC">että</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">ja</l>
+     <stg>
+       <st Contlex="#" status="CC">ja</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">joko</l>
+     <stg>
+       <st Contlex="#" status="CC">joko</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">jos kohta</l>
+     <stg>
+       <st Contlex="#" status="CC">jos kohta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">jos</l>
+     <stg>
+       <st Contlex="#" status="CC">jos</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">joskin</l>
+     <stg>
+       <st Contlex="#" status="CC">joskin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">konsa</l>
+     <stg>
+       <st Contlex="#" status="CC">konsa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">kuin</l>
+     <stg>
+       <st Contlex="#" status="CC">kuin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">mutta</l>
+     <stg>
+       <st Contlex="#" status="CC">mutta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">myös</l>
+     <stg>
+       <st Contlex="#" status="CC">myös</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">niin</l>
+     <stg>
+       <st Contlex="#" status="CC">niin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">saati</l>
+     <stg>
+       <st Contlex="#" status="CC">saati</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">sekä</l>
+     <stg>
+       <st Contlex="#" status="CC">sekä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">sillä</l>
+     <stg>
+       <st Contlex="#" status="CC">sillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">sitä paitsi</l>
+     <stg>
+       <st Contlex="#" status="CC">sitä paitsi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">sun</l>
+     <stg>
+       <st Contlex="#" status="CC">sun</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">tahi</l>
+     <stg>
+       <st Contlex="#" status="CC">tahi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">tahikka</l>
+     <stg>
+       <st Contlex="#" status="CC">tahikka</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">tai</l>
+     <stg>
+       <st Contlex="#" status="CC">tai</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">taikka</l>
+     <stg>
+       <st Contlex="#" status="CC">taikka</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">vaan</l>
+     <stg>
+       <st Contlex="#" status="CC">vaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">vai</l>
+     <stg>
+       <st Contlex="#" status="CC">vai</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">vaiko</l>
+     <stg>
+       <st Contlex="#" status="CC">vaiko</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">ynnä</l>
+     <stg>
+       <st Contlex="#" status="CC">ynnä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">äläkä</l>
+     <stg>
+       <st Contlex="#" status="CC">äläkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+</r> 

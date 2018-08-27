@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xml:lang="fin">
+<e>
+   <lg>
+     <l pos="CS">ennen kuin</l>
+     <stg>
+       <st Contlex="#" status="CS">ennen kuin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">että</l>
+     <stg>
+       <st Contlex="#" status="CS">että</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">jos</l>
+     <stg>
+       <st Contlex="#" status="CS">jos</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">joskaan</l>
+     <stg>
+       <st Contlex="#" status="CS">joskaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">joskin</l>
+     <stg>
+       <st Contlex="#" status="CS">joskin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">josko</l>
+     <stg>
+       <st Contlex="#" status="CS">josko</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">jotta</l>
+     <stg>
+       <st Contlex="#" status="CS">jotta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">konsa</l>
+     <stg>
+       <st Contlex="#" status="CS">konsa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">koska</l>
+     <stg>
+       <st Contlex="#" status="CS">koska</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">kun</l>
+     <stg>
+       <st Contlex="#" status="CS">kun</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">kunhan</l>
+     <stg>
+       <st Contlex="#" status="CS">kunhan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">kunnes</l>
+     <stg>
+       <st Contlex="#" status="CS">kunnes</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">kunpa</l>
+     <stg>
+       <st Contlex="#" status="CS">kunpa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">mikäli</l>
+     <stg>
+       <st Contlex="#" status="CS">mikäli</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">sillä</l>
+     <stg>
+       <st Contlex="#" status="CS">sillä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">sitäpaitsi</l>
+     <stg>
+       <st Contlex="#" status="CS">sitäpaitsi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">sun</l>
+     <stg>
+       <st Contlex="#" status="CS">sun</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">vaan</l>
+     <stg>
+       <st Contlex="#" status="CS">vaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">vaikka</l>
+     <stg>
+       <st Contlex="#" status="CS">vaikka</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">vaikkakaan</l>
+     <stg>
+       <st Contlex="#" status="CS">vaikkakaan</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">vaikkakin</l>
+     <stg>
+       <st Contlex="#" status="CS">vaikkakin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">vaikkapa</l>
+     <stg>
+       <st Contlex="#" status="CS">vaikkapa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+</r> 

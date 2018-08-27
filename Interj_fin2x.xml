@@ -1,0 +1,3763 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xml:lang="fin">
+<e>
+   <lg>
+     <l pos="Interj">Oo</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">Oo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">aa</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">aa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">aah</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">aah</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">aamen</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Interj">aamen</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ah</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">ah</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">aha</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">aha</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ahaa</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">ahaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ahah</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ahah</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ai</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ai</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">aih</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">aih</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">aijaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">aijaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">aijai</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">aijai</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">aijaij</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">aijaij</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ainiin</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ainiin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ammuu</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ammuu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">apropoo</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">apropoo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">au</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">au</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">auts</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">auts</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">avot</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">avot</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">bang</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">bang</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">blaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">blaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">blää</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">blää</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">blääblääblää</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">blääblääblää</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">boing</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">boing</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">boom</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">boom</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">bravo</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">bravo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">bum</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">bum</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">buum</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">buum</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">bäng</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">bäng</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">bää</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">bää</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ding</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ding</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ee</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">ee</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">eh</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">eh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">eheheh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">eheheh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ehei</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ehei</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">eiei</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">eiei</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">eli</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">eli</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">elikkä</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">elikkä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">että</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">että</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">fiuu</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">fiuu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ha</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">ha</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">haa</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">haa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hah</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hah</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hai</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hai</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">halleluja</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">halleluja</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">haloo</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">haloo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hau</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hau</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">he</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">he</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">heh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">heh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hehe</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">hehe</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hehh</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">hehh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hei</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hei</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">heido</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">heido</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">heijaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">heijaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">heijakkaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">heijakkaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">heippa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">heippa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">heipä</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">heipä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hellanlettas</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hellanlettas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hellurei</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hellurei</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">helvetti</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">helvetti</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hep</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hep</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">herrajesta</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">herrajesta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">herrajestas</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">herrajestas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">herranjesta</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">herranjesta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">herranjestas</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">herranjestas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hh</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">hh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hi</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">hi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hih</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hih</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hihhei</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hihhei</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hihuu</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hihuu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hiiop</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hiiop</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hip</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hip</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hm</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hm</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hmm</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hmm</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hoh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hoh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hohhoijaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hohhoijaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hohoi</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hohoi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hoi</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hoi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hoijaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hoijaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hoijakkaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hoijakkaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hoo</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">hoo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hopsansaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hopsansaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hox</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hox</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">huh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">huh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">huhhuh</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">huhhuh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hui hai</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hui hai</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hui</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hui</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">huijaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">huijaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">huijakkaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">huijakkaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">huiskis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">huiskis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">huiskista</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">huiskista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">humps</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">humps</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">humpsis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">humpsis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">huoh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">huoh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hups</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hups</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hupsis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hupsis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hurraa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hurraa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hus</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hus</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">huu</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">huu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hyh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hyh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hyi</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hyi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hys</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hys</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hyvästi</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">hyvästi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">hä</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">hä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">häh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">häh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">höh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">höh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">höpsis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">höpsis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">höpsistä</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">höpsistä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ihahaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ihahaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ihh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ihh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ii</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">ii</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jaa-a</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jaa-a</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jaah</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jaah</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jaaha</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jaaha</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jaahas</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jaahas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jaha</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jaha</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jassoo</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jassoo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jee</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jee</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jeejee</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">jeejee</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jees</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jees</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jeh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jeh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jep</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jep</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jes</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jes</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jess</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jess</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jessus</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jessus</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jestas</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jestas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">joo</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">joo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jooh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jooh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">joopajoo</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">joopajoo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jou</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jou</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jubbum</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jubbum</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jukolaut</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jukolaut</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jukolauta</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jukolauta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jukoliste</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jukoliste</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jukra</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jukra</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">juku</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">juku</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jumalaut</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jumalaut</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jumalauta</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jumalauta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jumaliste</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jumaliste</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jumpe</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jumpe</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">juu</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">juu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jybby</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jybby</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">jyskis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">jyskis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kalin</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kalin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kappas</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kappas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kaps</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kaps</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kas</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kas</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kasvain</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kasvain</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kiitos</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kiitos</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kiitti</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kiitti</st>
+       <st Contlex="INTJ_HAH" status="Pcle">kiitti</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kilin</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kilin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kippis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kippis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">klang</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">klang</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">klap</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">klap</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">klaps</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">klaps</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">klik</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">klik</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kling</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kling</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">klonk</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">klonk</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">klonks</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">klonks</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">klop</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">klop</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">klunks</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">klunks</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kolin</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kolin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kop</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kop</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kops</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kops</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kopsis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kopsis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kraaps</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kraaps</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kraps</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kraps</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kruts</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kruts</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kräts</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kräts</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kukkuu</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kukkuu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">kääk</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">kääk</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">lits</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">lits</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">loiskis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">loiskis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">loiskista</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">loiskista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">lonks</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">lonks</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">lops</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">lops</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">lumpsis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">lumpsis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">läiskis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">läiskis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">läps</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">läps</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">lätsistä</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">lätsistä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">mars</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">mars</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">mau</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">mau</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">mh</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">mh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">mhh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">mhh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">miau</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">miau</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">mitäh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">mitäh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">mmm</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">mmm</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">moi</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">moi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">moido</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">moido</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">moikka</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">moikka</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">moiskis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">moiskis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">moksis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">moksis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">molskis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">molskis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">molskista</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">molskista</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">morjens</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">morjens</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">morjensta</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">morjensta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">morjes</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">morjes</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">morjesta</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">morjesta</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">moro</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">moro</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">mrr</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">mrr</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">muksis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">muksis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">mur</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">mur</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">murr</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">murr</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">muu</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">muu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">mäiskis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">mäiskis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">mää</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">mää</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">möö</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">möö</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">naks</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">naks</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">naksis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">naksis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">naps</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">naps</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">napsis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">napsis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">niisk</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">niisk</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">nips</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">nips</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">njaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">njaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">njoo</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">njoo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">no</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">no</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">noh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">noh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">nojoo</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">nojoo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">noni</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">noni</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">noniin</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">noniin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">nonni</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">nonni</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">noo</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">noo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">nuuh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">nuuh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">nyyh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">nyyh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">näkemiin</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">näkemiin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">nöf</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">nöf</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">oh</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">oh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ohhoh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ohhoh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ohhoijaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ohhoijaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">oho</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">oho</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ohoh</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">ohoh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ohoi</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ohoi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">oi</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">oi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">oih</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">oih</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">oijoi</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">oijoi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">oijoij</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">oijoij</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">oioi</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">oioi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">oj</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">oj</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">okei</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">okei</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">olalaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">olalaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">om</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">om</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">oo</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">oo</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ooh</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">ooh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pah</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pah</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pai</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pai</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pam</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pam</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pang</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pang</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">paskat</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">paskat</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pentele</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pentele</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">perhana</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">perhana</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">perkele</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">perkele</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">phui</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">phui</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">phyi</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">phyi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">piip</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">piip</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pim</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pim</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">piru</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">piru</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">plam</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">plam</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">plim</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">plim</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pling</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pling</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">plumps</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">plumps</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">plums</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">plums</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pluts</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pluts</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pläts</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pläts</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">plääh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">plääh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">poks</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">poks</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">poksis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">poksis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">polskis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">polskis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pom</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pom</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">porloiskis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">porloiskis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">prkl</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">prkl</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">prr</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">prr</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">prrr</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">prrr</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">psst</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">psst</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pst</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pst</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ptruu</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ptruu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">puff</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">puff</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">puh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">puh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">puks</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">puks</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">puksis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">puksis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pum</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pum</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pumps</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pumps</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pus</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pus</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pusi</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pusi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">puuh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">puuh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pyh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pyh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pärskis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pärskis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">pöh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">pöh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">raks</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">raks</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">raksis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">raksis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">raps</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">raps</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">rats</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">rats</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">riips</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">riips</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">riks</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">riks</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ring</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ring</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">rits</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">rits</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">roiskis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">roiskis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">rompsis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">rompsis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ropsis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ropsis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">rouskis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">rouskis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">runts</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">runts</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">räiskis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">räiskis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">räks</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">räks</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">räksis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">räksis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">räps</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">räps</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">räts</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">räts</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">röh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">röh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">saakeli</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">saakeli</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">saatana</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">saatana</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">sait</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">sait</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">seesam</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">seesam</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">seis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">seis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">senkin</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">senkin</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">shh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">shh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">sitten</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">sitten</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">skool</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">skool</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">sori</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">sori</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">sorry</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">sorry</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">suih</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">suih</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">suit</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">suit</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">supi</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">supi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">sur</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">sur</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tattis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tattis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">terve</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">terve</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tik</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tik</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tip</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tip</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">titityy</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">titityy</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">top</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">top</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tralalaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tralalaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">trallallaa</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">trallallaa</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tsak</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tsak</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tse</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tse</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tsip</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tsip</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tsup</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tsup</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tsäp</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tsäp</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tuku</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tuku</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tumps</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tumps</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tupsis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tupsis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tuut</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tuut</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tyyt</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tyyt</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tä</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">tä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">täh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">täh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tök</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tök</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">töks</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">töks</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">töksis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">töksis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tömps</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tömps</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">töp</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">töp</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">töpsis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">töpsis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">tööt</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">tööt</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">uh</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">uh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ups</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ups</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">upsis</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">upsis</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">uu</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">uu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">vau</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">vau</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">vittu</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">vittu</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">vitut</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">vitut</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">viuh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">viuh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">voi</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">voi</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">vrum</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">vrum</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">vruum</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">vruum</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">vrä</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">vrä</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">vuh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">vuh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">yhyy</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">yhyy</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">yäk</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">yäk</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">yök</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">yök</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">äh</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">äh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ääh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ääh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">äš</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">äš</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ö</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">ö</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">öh</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">öh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">öhh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">öhh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ör</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ör</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">örr</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">örr</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">öö</l>
+     <stg>
+       <st Contlex="INTJ_OO" status="Pcle">öö</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ööh</l>
+     <stg>
+       <st Contlex="INTJ_HAH" status="Pcle">ööh</st>
+     </stg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+</r> 

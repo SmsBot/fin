@@ -24,6 +24,7 @@ def is_ok_dir(directory):
 
 def list_folders():
 	folders = filter(is_ok_dir, os.listdir(os.getcwd()))
+	folders = list(folders)
 	if len(folders) == 0:
 		folders = ["."]
 	return folders
